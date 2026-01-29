@@ -1,0 +1,6 @@
+EXPRESSION#>hi
+EXPRESSION#>s
+VAR#>javac com/chat/app/
+VAR#>javac com/chat/app/*.java\
+	        \
+	        */
